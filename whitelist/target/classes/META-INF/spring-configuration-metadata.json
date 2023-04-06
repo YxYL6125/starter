@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "yxyl.whitelist",
+      "type": "com.yxyl.whitelist.config.WhiteListProperties",
+      "sourceType": "com.yxyl.whitelist.config.WhiteListProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "yxyl.whitelist.users",
+      "type": "java.lang.String",
+      "sourceType": "com.yxyl.whitelist.config.WhiteListProperties"
+    }
+  ],
+  "hints": []
+}
